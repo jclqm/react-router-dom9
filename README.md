@@ -2,8 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## 描述(总结)
 
-react-router-dom 示例讲解（八）—— 模糊匹配<br>
-在Route的path属性中，可以做到模糊匹配，并且你可以在模糊匹配的组件中，获取相关的参数
+react-router-dom 示例讲解（九）—— 路由配置<br>
+
+核心组件 RouterWithSubRoutes<br>
 
 ## Available Scripts
 
